@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "hednsupd": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "HEDNSUPD_KEY": "woYWDpFjk5aXKNam",
+        "HEDNSUPD_HOSTNAME": "dyn.martpaul.de",
+        "HEDNSUPD_DELAY": "600"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
